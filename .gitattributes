@@ -22,3 +22,5 @@ CapstaoneAR/Temp/StagingArea/assets/bin/Data/unity filter=lfs diff=lfs merge=lfs
 CapstoneAR/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll filter=lfs diff=lfs merge=lfs -text
 CapstoneAR/Library/PlayerDataCache/Android/Data/Managed/System.Xml.dll filter=lfs diff=lfs merge=lfs -text
 CapstoneAR/Library/PlayerDataCache/Android/Data/Managed/System.dll filter=lfs diff=lfs merge=lfs -text
+CapstoneAR/Temp/StagingArea/libs/armeabi-v7a/libmonobdwgc-2.0.so filter=lfs diff=lfs merge=lfs -text
+CapstoneAR/Temp/StagingArea/assets/bin/Data/Managed/mscorlib.dll filter=lfs diff=lfs merge=lfs -text
