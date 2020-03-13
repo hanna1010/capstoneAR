@@ -24,3 +24,5 @@ CapstoneAR/Library/PlayerDataCache/Android/Data/Managed/System.Xml.dll filter=lf
 CapstoneAR/Library/PlayerDataCache/Android/Data/Managed/System.dll filter=lfs diff=lfs merge=lfs -text
 CapstoneAR/Temp/StagingArea/libs/armeabi-v7a/libmonobdwgc-2.0.so filter=lfs diff=lfs merge=lfs -text
 CapstoneAR/Temp/StagingArea/assets/bin/Data/Managed/mscorlib.dll filter=lfs diff=lfs merge=lfs -text
+CapstoneAR/Temp/StagingArea/assets/bin/Data/Managed/System.dll filter=lfs diff=lfs merge=lfs -text
+CapstoneAR/Temp/StagingArea/assets/bin/Data/Managed/System.Xml.dll filter=lfs diff=lfs merge=lfs -text
