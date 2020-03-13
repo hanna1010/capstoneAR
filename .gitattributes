@@ -14,3 +14,11 @@ CapstoneAR/CapstoneAR_Data/Managed/mscorlib.dll filter=lfs diff=lfs merge=lfs -t
 CapstoneAR/Library/PlayerDataCache/Android/Data/Managed/mscorlib.dll filter=lfs diff=lfs merge=lfs -text
 CapstoneAR/CapstoneAR_Data/Resources/unity filter=lfs diff=lfs merge=lfs -text
 CapstoneAR/Library/metadata/a3/a3d28379988b29b4885e0cf9fdec359e filter=lfs diff=lfs merge=lfs -text
+CapstoneAR/Temp/StagingArea/libs/armeabi-v7a/libunity.so filter=lfs diff=lfs merge=lfs -text
+CapstoneAR/UnityPlayer.dll filter=lfs diff=lfs merge=lfs -text
+CapstaoneAR/Temp/gradleOut/build/intermediates/merged_assets/release/out/bin/Data/unity filter=lfs diff=lfs merge=lfs -text
+CapstaoneAR/Temp/gradleOut/build/intermediates/merged_assets/release/out/bin/Data/Managed/System.dll filter=lfs diff=lfs merge=lfs -text
+CapstaoneAR/Temp/StagingArea/assets/bin/Data/unity filter=lfs diff=lfs merge=lfs -text
+CapstoneAR/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll filter=lfs diff=lfs merge=lfs -text
+CapstoneAR/Library/PlayerDataCache/Android/Data/Managed/System.Xml.dll filter=lfs diff=lfs merge=lfs -text
+CapstoneAR/Library/PlayerDataCache/Android/Data/Managed/System.dll filter=lfs diff=lfs merge=lfs -text
