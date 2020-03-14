@@ -11,42 +11,68 @@ public class GBGmap : MonoBehaviour
     public Toggle GHRtoggle;
     public Toggle GNJtoggle;
 
+    int GHM=0, GJJ=0, GHR=0, GNJ=0;
+
     public void ActiveToggle() 
     {
-        if (GHMtoggle.isOn && GJJtoogle.isOn)
+        if (GHMtoggle.isOn)
         {
-            SceneManager.LoadScene("GHM-GJJ");
+            GHM = 1;
+            Debug.Log("광화문");
         }
 
-        else if (GHMtoggle.isOn && GHRtoogle.isOn)
+        if (GJJtoggle.isOn)
         {
-            SceneManager.LoadScene("GHM-GHR");
+            GJJ = 1;
+            Debug.Log("근정전");
         }
 
-        else if (GHRtoggle.isOn && GJJtoogle.isOn)
+        if (GHRtoggle.isOn)
         {
-            SceneManager.LoadScene("GHR-GJJ");
+            GHR = 1;
         }
 
-        else if (GHRtoggle.isOn && GNJtoogle.isOn)
+        if (GNJtoggle.isOn)
         {
-            SceneManager.LoadScene("GHR-GNJ");
+            GNJ = 1;
         }
 
-        else if (GNJtoggle.isOn && GJJtoogle.isOn)
-        {
-            SceneManager.LoadScene("GNJ-GJJ");
-        }
-
-        else
-        {
-            SceneManager.LoadScene("GHM-GJJ");
-        }
 
     }
 
     public void OnSubmit()
     {
         ActiveToggle();
+
+        if (GHM == 1 && GHR == 1)
+        {
+
+            SceneManager.LoadScene("GHM-GHR");
+        }
+
+        else if (GHM == 1 && GJJ == 1)
+        {
+            Debug.Log("광화문근정전");
+            SceneManager.LoadScene("GHM-GJJ");
+        }
+
+        else if (GHM == 1 && GNJ == 1)
+        {
+            SceneManager.LoadScene("GHM-GNJ");
+        }
+
+        else if (GHR == 1 && GJJ == 1)
+        {
+            SceneManager.LoadScene("GHR-GJJ");
+        }
+
+        else if (GHR == 1 && GNJ == 1)
+        {
+            SceneManager.LoadScene("GHR-GNJ");
+        }
+        else if (GNJ == 1 && GJJ == 1)
+        {
+            SceneManager.LoadScene("GNJ-GJJ");
+        }
     }
 }
