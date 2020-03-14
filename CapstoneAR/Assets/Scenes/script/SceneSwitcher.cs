@@ -5,13 +5,12 @@ using UnityEngine.SceneManagement;
 
 public class SceneSwitcher : MonoBehaviour
 {
-    // Start is called before the first frame update
+   
     public void GotoStart()
     {
         SceneManager.LoadScene("Start");
     }
 
-    // Update is called once per frame
     public void GotoGBG()
     {
         SceneManager.LoadScene("GBG");
