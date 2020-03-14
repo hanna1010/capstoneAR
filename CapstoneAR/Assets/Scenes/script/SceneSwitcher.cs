@@ -16,6 +16,11 @@ public class SceneSwitcher : MonoBehaviour
         SceneManager.LoadScene("GBG");
     }
 
+    public void GotoGBGARmenu()
+    {
+        SceneManager.LoadScene("GBGARmenu");
+    }
+
     public void GotoGHG()
     {
         SceneManager.LoadScene("GHG");
