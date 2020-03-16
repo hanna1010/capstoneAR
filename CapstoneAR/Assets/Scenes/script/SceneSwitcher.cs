@@ -5,7 +5,11 @@ using UnityEngine.SceneManagement;
 
 public class SceneSwitcher : MonoBehaviour
 {
-   
+    public void GotoMap()
+    {
+        SceneManager.LoadScene("Map");
+    }
+
     public void GotoStart()
     {
         SceneManager.LoadScene("Start");
@@ -16,16 +20,30 @@ public class SceneSwitcher : MonoBehaviour
         SceneManager.LoadScene("GBG");
     }
 
-    public void GotoGBGARmenu()
-    {
-        SceneManager.LoadScene("GBGARmenu");
-    }
-
     public void GotoGHG()
     {
         SceneManager.LoadScene("GHG");
     }
+    public void GotoGHGARmap()
+    {
+        SceneManager.LoadScene("GHGARmap");
+    }
 
+    public void GotoGHGARInfo()
+    {
+        SceneManager.LoadScene("GHGARInfo");
+    }
+
+    public void GotoGHGMap()
+    {
+        SceneManager.LoadScene("GHGMap");
+    }
+
+    public void GotoGHGFB()
+    {
+        SceneManager.LoadScene("GHGFB");
+
+    }
     public void GotoCDG()
     {
         SceneManager.LoadScene("CDG");
