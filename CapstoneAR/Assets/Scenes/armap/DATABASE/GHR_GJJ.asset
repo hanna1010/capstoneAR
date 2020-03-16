@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d58c52ff9f122a49a289c83a1611436, type: 3}
+  m_Name: GHR_GJJ
+  m_EditorClassIdentifier: 
+  Entries:
+  - MeshId: GHM
+    Prefab: {fileID: 1828680092112647826, guid: 5a187d3c956fb468a8957ace3dcf4fad,
+      type: 3}
+  - MeshId: GHR
+    Prefab: {fileID: 409381768206602780, guid: a5dd1d164a7584fb894b0eea527c82e6, type: 3}
+  - MeshId: GNJ
+    Prefab: {fileID: 2682605893132753009, guid: 0d44bddbdfa1340ab9e4e76c741191cc,
+      type: 3}
+  - MeshId: GJJ
+    Prefab: {fileID: 6816180800096547554, guid: a4fb8089e88cc44b6b99781db620b91d,
+      type: 3}
+  - MeshId: GHR_GJJ
+    Prefab: {fileID: 3275448267557414955, guid: eea3f6db7138d414f95499d8d775cdcd,
+      type: 3}

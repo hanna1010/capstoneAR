@@ -12,24 +12,30 @@ EditorBuildSettings:
     path: Assets/Scenes/GBG.unity
     guid: ac62c8d69afc8bb4fa445eae0ac8b4d1
   - enabled: 1
-    path: Assets/Scenes/GBG/GBGARmenu.unity
+    path: Assets/Scenes/GBG/GBGARmap.unity
     guid: b72232ecfbd8d5e4abd061b5936492a2
   - enabled: 1
-    path: Assets/Scenes/GBG/ARASSET/SCENE/GHM-GHR.unity
+    path: Assets/Scenes/armap/SCENE/GHM-GHR.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
   - enabled: 1
-    path: Assets/Scenes/GBG/ARASSET/SCENE/GHM-GJJ.unity
+    path: Assets/Scenes/armap/SCENE/GHM-GJJ.unity
     guid: 5141ad3080d7c43a6a98868d25c7eb17
   - enabled: 1
-    path: Assets/Scenes/GBG/ARASSET/SCENE/GHM-GNJ.unity
+    path: Assets/Scenes/armap/SCENE/GHM-GNJ.unity
     guid: 1904104cae3cf43bb98417376b7893e8
   - enabled: 1
-    path: Assets/Scenes/GBG/ARASSET/SCENE/GHR-GJJ.unity
+    path: Assets/Scenes/armap/SCENE/GHR-GJJ.unity
     guid: 18fc3f36a5f7f4e868ad860671dae233
   - enabled: 1
-    path: Assets/Scenes/GBG/ARASSET/SCENE/GHR-GNJ.unity
+    path: Assets/Scenes/armap/SCENE/GHR-GNJ.unity
     guid: a3bd886670f044e06884f711933e8d49
   - enabled: 1
-    path: Assets/Scenes/GBG/ARASSET/SCENE/GNJ-GJJ.unity
+    path: Assets/Scenes/armap/SCENE/GNJ-GJJ.unity
     guid: 34e18c317bebc40cd9f808919e893d4f
+  - enabled: 1
+    path: Assets/Scenes/armap/SCENE/INFO.unity
+    guid: 9e64ae39d252d4f4a8b6c35cb17e3f69
+  - enabled: 1
+    path: Assets/Scenes/armap/SCENE/SampleScene.unity
+    guid: 54b3647a38cbc46b0a5132011c4aa755
   m_configObjects: {}
