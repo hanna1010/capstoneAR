@@ -1,4 +1,0 @@
-#Wed Mar 18 17:13:21 GMT+09:00 2020
-base.0=C\:\\Users\\yhn93\\Desktop\\capstoneAR\\CapstoneAR\\Temp\\gradleOut\\build\\intermediates\\transforms\\dexMerger\\release\\0
-path.0=classes.dex
-renamed.0=classes.dex
