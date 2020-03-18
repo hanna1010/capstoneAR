@@ -12,6 +12,7 @@ public class SceneSwitcher : MonoBehaviour
 
     public void GotoStart()
     {
+        Debug.Log("work");
         SceneManager.LoadScene("Start");
     }
 
@@ -24,26 +25,7 @@ public class SceneSwitcher : MonoBehaviour
     {
         SceneManager.LoadScene("GHG");
     }
-    public void GotoGHGARmap()
-    {
-        SceneManager.LoadScene("GHGARmap");
-    }
-
-    public void GotoGHGARInfo()
-    {
-        SceneManager.LoadScene("GHGARInfo");
-    }
-
-    public void GotoGHGMap()
-    {
-        SceneManager.LoadScene("GHGMap");
-    }
-
-    public void GotoGHGFB()
-    {
-        SceneManager.LoadScene("GHGFB");
-
-    }
+  
     public void GotoCDG()
     {
         SceneManager.LoadScene("CDG");

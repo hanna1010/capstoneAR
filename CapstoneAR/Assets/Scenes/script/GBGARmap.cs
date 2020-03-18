@@ -47,32 +47,32 @@ public class GBGARmap : MonoBehaviour
         if (GHM == 1 && GHR == 1)
         {
 
-            SceneManager.LoadScene("GHM-GHR");
+            SceneManager.LoadScene("GHMGHR");
         }
 
         else if (GHM == 1 && GJJ == 1)
         {
             Debug.Log("광화문근정전");
-            SceneManager.LoadScene("GHM-GJJ");
+            SceneManager.LoadScene("GHMGJJ");
         }
 
         else if (GHM == 1 && GNJ == 1)
         {
-            SceneManager.LoadScene("GHM-GNJ");
+            SceneManager.LoadScene("GHMGNJ");
         }
 
         else if (GHR == 1 && GJJ == 1)
         {
-            SceneManager.LoadScene("GHR-GJJ");
+            SceneManager.LoadScene("GHRGJJ");
         }
 
         else if (GHR == 1 && GNJ == 1)
         {
-            SceneManager.LoadScene("GHR-GNJ");
+            SceneManager.LoadScene("GHRGNJ");
         }
         else if (GNJ == 1 && GJJ == 1)
         {
-            SceneManager.LoadScene("GNJ-GJJ");
+            SceneManager.LoadScene("GNJGJJ");
         }
     }
 }
