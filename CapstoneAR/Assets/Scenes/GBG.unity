@@ -614,7 +614,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 435088306}
-        m_MethodName: GotoStart
+        m_MethodName: GotoMap
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -1219,8 +1219,8 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 435088306}
-        m_MethodName: GotoStart
+      - m_Target: {fileID: 435088307}
+        m_MethodName: GotoGBGFB
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -2330,8 +2330,8 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 435088306}
-        m_MethodName: GotoStart
+      - m_Target: {fileID: 435088307}
+        m_MethodName: GotoGBGARInfo
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -3189,8 +3189,8 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 435088306}
-        m_MethodName: GotoStart
+      - m_Target: {fileID: 435088307}
+        m_MethodName: GotoGBGARmap
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}

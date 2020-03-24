@@ -14,7 +14,4 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/GBG/GBGARmap.unity
     guid: b72232ecfbd8d5e4abd061b5936492a2
-  - enabled: 1
-    path: Assets/Scenes/DSG.unity
-    guid: b9e4c14a050490843999380d79203683
   m_configObjects: {}
