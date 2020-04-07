@@ -63,16 +63,16 @@ public class GBGARmap : MonoBehaviour
 
         else if (GHR == 1 && GJJ == 1)
         {
-            SceneManager.LoadScene("GHRGJJ");
+            SceneManager.LoadScene("GJJGHR");
         }
 
         else if (GHR == 1 && GNJ == 1)
         {
-            SceneManager.LoadScene("GHRGNJ");
+            SceneManager.LoadScene("GNJGHR");
         }
         else if (GNJ == 1 && GJJ == 1)
         {
-            SceneManager.LoadScene("GNJGJJ");
+            SceneManager.LoadScene("GJJGNJ");
         }
     }
 }

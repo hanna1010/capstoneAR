@@ -13,7 +13,7 @@ public class SceneSwitchGBG : MonoBehaviour
 
     public void GotoGBGARInfo()
     {
-        SceneManager.LoadScene("INFO");
+        SceneManager.LoadScene("GBGARInfo");
     }
 
 

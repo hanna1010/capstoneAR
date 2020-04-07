@@ -14,4 +14,28 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/GBG/GBGARmap.unity
     guid: b72232ecfbd8d5e4abd061b5936492a2
+  - enabled: 1
+    path: Assets/Scenes/ARCONTENTS/SCENES/GBGARInfo.unity
+    guid: b3a5778b1c61142f1b8b98f570247537
+  - enabled: 1
+    path: Assets/Scenes/ARCONTENTS/SCENES/GBGFB.unity
+    guid: 7a98011e3d1cf47b9a86985b45f882f5
+  - enabled: 1
+    path: Assets/Scenes/ARCONTENTS/SCENES/GHMGHR.unity
+    guid: 946db9b79a1c4410a94ac6b3b8b41906
+  - enabled: 0
+    path: Assets/Scenes/ARCONTENTS/SCENES/GHMGJJ.unity
+    guid: b1608559f21cc47fcae9821d37bbe4b3
+  - enabled: 0
+    path: Assets/Scenes/ARCONTENTS/SCENES/GHMGNJ.unity
+    guid: 62060d8dde07f423ea7f0110ac310008
+  - enabled: 0
+    path: Assets/Scenes/ARCONTENTS/SCENES/GJJGHR.unity
+    guid: 4fda182535a7840458c0d85a0276d61c
+  - enabled: 0
+    path: Assets/Scenes/ARCONTENTS/SCENES/GJJGNJ.unity
+    guid: 5ddff23ed757147cb8b6fabf2179c874
+  - enabled: 0
+    path: Assets/Scenes/ARCONTENTS/SCENES/GNJGHR.unity
+    guid: 213bf3e859c2841e186e71678bcd7996
   m_configObjects: {}
