@@ -40,4 +40,9 @@ public class SceneSwitcher : MonoBehaviour
     {
         SceneManager.LoadScene("DSG");
     }
+
+    public void GotoGHMtoTICKET()
+    {
+        SceneManager.LoadScene("GHMtoTICKET");
+    }
 }

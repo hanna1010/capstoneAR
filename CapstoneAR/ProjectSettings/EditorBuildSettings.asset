@@ -15,36 +15,39 @@ EditorBuildSettings:
     path: Assets/Scenes/GBG/GBGARmap.unity
     guid: b72232ecfbd8d5e4abd061b5936492a2
   - enabled: 0
-    path: Assets/Scenes/ARCONTENTS/SCENES/GBGARInfo.unity
-    guid: b3a5778b1c61142f1b8b98f570247537
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 0
-    path: Assets/Scenes/ARCONTENTS/SCENES/GBGFB.unity
-    guid: 7a98011e3d1cf47b9a86985b45f882f5
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 0
-    path: Assets/Scenes/ARCONTENTS/SCENES/GHMGHR.unity
-    guid: 946db9b79a1c4410a94ac6b3b8b41906
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 0
-    path: Assets/Scenes/ARCONTENTS/SCENES/GHMGJJ.unity
-    guid: b1608559f21cc47fcae9821d37bbe4b3
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 0
-    path: Assets/Scenes/ARCONTENTS/SCENES/GHMGNJ.unity
-    guid: 62060d8dde07f423ea7f0110ac310008
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 0
-    path: Assets/Scenes/ARCONTENTS/SCENES/GJJGHR.unity
-    guid: 4fda182535a7840458c0d85a0276d61c
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 0
-    path: Assets/Scenes/ARCONTENTS/SCENES/GJJGNJ.unity
-    guid: 5ddff23ed757147cb8b6fabf2179c874
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 0
-    path: Assets/Scenes/ARCONTENTS/SCENES/GNJGHR.unity
-    guid: 213bf3e859c2841e186e71678bcd7996
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 0
-    path: Assets/Scenes/GBG/GHM.unity
-    guid: 76a1331d9e7955e419729dbe97a6bafe
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 0
-    path: Assets/Scenes/GBG/gg.unity
-    guid: 7ba6ef4f28de08342a9ec0aa24e35f76
-  - enabled: 1
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
     path: Assets/Scenes/GBG/wholeGPS.unity
     guid: 26fe222345518cc4c9f68883ec01a355
+  - enabled: 1
+    path: Assets/Scenes/GBG/firstscene/firstscene/GHMtoTICKET.unity
+    guid: aafc9ebc5bff88743ab6bb6640533434
   m_configObjects: {}
