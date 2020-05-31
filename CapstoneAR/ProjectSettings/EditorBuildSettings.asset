@@ -5,22 +5,22 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Start.unity
     guid: d9461bf2feb8e0a4f81098b6d8345cba
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/GBG.unity
     guid: ac62c8d69afc8bb4fa445eae0ac8b4d1
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/GBG/GBGARmap.unity
     guid: b72232ecfbd8d5e4abd061b5936492a2
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/ARCONTENTS/SCENES/GBGARInfo.unity
     guid: b3a5778b1c61142f1b8b98f570247537
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/ARCONTENTS/SCENES/GBGFB.unity
     guid: 7a98011e3d1cf47b9a86985b45f882f5
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/ARCONTENTS/SCENES/GHMGHR.unity
     guid: 946db9b79a1c4410a94ac6b3b8b41906
   - enabled: 0
@@ -38,4 +38,13 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/ARCONTENTS/SCENES/GNJGHR.unity
     guid: 213bf3e859c2841e186e71678bcd7996
+  - enabled: 0
+    path: Assets/Scenes/GBG/GHM.unity
+    guid: 76a1331d9e7955e419729dbe97a6bafe
+  - enabled: 0
+    path: Assets/Scenes/GBG/gg.unity
+    guid: 7ba6ef4f28de08342a9ec0aa24e35f76
+  - enabled: 1
+    path: Assets/Scenes/GBG/wholeGPS.unity
+    guid: 26fe222345518cc4c9f68883ec01a355
   m_configObjects: {}
